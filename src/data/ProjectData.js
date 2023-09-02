@@ -10,13 +10,14 @@ export const ProjectList = [
       "https://64eb3473e5e53c5135cb6f93--storied-cassata-9276d4.netlify.app/",
   },
   {
-    img: "/Zomato.png",
-    title: "Zomato clone",
+    img: "/FastEat.png",
+    title: "FastEat",
     description:
-      "This is a Zomato clone app built using React, Redux, Tailwind CSS, and React Router DOM.",
+      "This is a FastEat food website built using React, Redux, Tailwind CSS, and React Router DOM.",
     tech_stack: "React js ,Redux, Tailwind Css",
-    github_url: "https://github.com/BhartSingh/Zomato_App",
-    demo_url: "https://majestic-crisp-2a478d.netlify.app/",
+    github_url: "https://github.com/BhartSingh/FastEat",
+    demo_url:
+      "https://64f32e62e822fe6fb478c3f0--fancy-gumption-92a0da.netlify.app/",
   },
   {
     img: "https://user-images.githubusercontent.com/77205201/252886480-e39531c9-07ea-427a-980b-4c4630c0f198.png",
@@ -38,7 +39,7 @@ export const ProjectList = [
   },
   {
     img: "https://user-images.githubusercontent.com/77205201/252889883-4d61922c-1362-4554-8035-049b42af1514.png",
-    title: "Redesign Youtube",
+    title: "Youtube Lite",
     description:
       "Created Youtube using react and firebase that provides authentication , like and subscribe videos features ",
     tech_stack: "Reactjs, Css, Firebase",
