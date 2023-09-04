@@ -29,6 +29,15 @@ export const ProjectList = [
       "https://64eb35368de23f5a5529b436--tubular-duckanoo-6ca76f.netlify.app/",
   },
   {
+    img: "Admin_Panel.png",
+    title: "Admin Panel",
+    description:
+      "Created Admin Panel using react that provide authentication, add, delete & update data ",
+    tech_stack: "Reactjs, Tailwind Css",
+    github_url: "https://github.com/BhartSingh/Admin_panel_react",
+    demo_url: "https://melodic-platypus-850f67.netlify.app/",
+  },
+  {
     img: "/FoodZone.png",
     title: "FoodZone Website ",
     description:
@@ -37,6 +46,7 @@ export const ProjectList = [
     github_url: "https://github.com/BhartSingh/FoodZone-Website",
     demo_url: "https://frolicking-quokka-de81d1.netlify.app/",
   },
+
   {
     img: "https://user-images.githubusercontent.com/77205201/252889883-4d61922c-1362-4554-8035-049b42af1514.png",
     title: "Youtube Lite",
