@@ -57,6 +57,16 @@ export const ProjectList = [
     demo_url:
       "https://64ed38413bec1c1127e36748--delicate-semifreddo-dabdc1.netlify.app/",
   },
+  {
+    img: "/Zomato.png",
+    title: "Zomato",
+    description:
+      "Created Zomato clone app using react that provides authentication , filters and cuisines features",
+    tech_stack: "Reactjs, Tailwind Css",
+    github_url: "https://github.com/BhartSingh/Zomato_App",
+    demo_url:
+      "https://64f874a589837f7be41d57a6--timely-alfajores-f0f283.netlify.app/",
+  },
 ];
 
 // --------------------------------------- Skills
